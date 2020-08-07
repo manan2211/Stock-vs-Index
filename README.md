@@ -1,2 +1,2 @@
 # Stock-vs-Index
-Comparison of Microsoft stock vs NASDAQ index over last 30 years
+Comparison of Microsoft stock vs NASDAQ index over last 10 years
